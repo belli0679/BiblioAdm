@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pro-c64-project-template",
-    "slug": "snack-ae8e00d2-164f-491f-ad0d-7e435da994f7",
+    "name": "BiblioAdm",
+    "slug": "BiblioAdm",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
